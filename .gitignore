@@ -1,7 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 .env
 node_modules/
-database.db
+database.dbgit branch -d <branch>
 # dependencies
 /node_modules
 /.pnp
